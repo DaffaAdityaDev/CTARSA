@@ -1,0 +1,12 @@
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-nav .nav-link {
+  color: #fff; /* White font color */
+}
+
+.btn-custom {
+  color: #fff;
+  background-color: rgba(84, 104, 231, 0.5);
+  width: 184px;
+  height: 47px;
+  /* border-color: #1a1a1a; */
+}
